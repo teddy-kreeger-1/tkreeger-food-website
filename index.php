@@ -18,7 +18,7 @@
     
       <img src="images/chef.jpg" alt="A picture of a Chef"     title="Chef Beef" width="150" height="150">
 
-      <h1>Where's The Super Beef?</h1>
+      <h1>Where's The Beef?</h1>
    </div><!--header-->
       
    <div id="navbar"><!--navbar-->
